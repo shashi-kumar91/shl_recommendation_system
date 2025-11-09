@@ -6,7 +6,7 @@ import json
 # Page config
 st.set_page_config(
     page_title="SHL Assessment Recommender",
-    page_icon="🎯",
+    page_icon="https://www.linkedin.com/in/shashi-kumar-banoth-a0a287276/",
     layout="wide"
 )
 
