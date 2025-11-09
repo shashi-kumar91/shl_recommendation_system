@@ -6,7 +6,7 @@ import json
 # Page config
 st.set_page_config(
     page_title="SHL Assessment Recommender",
-    page_icon="https://www.linkedin.com/in/shashi-kumar-banoth-a0a287276/",
+    page_icon="🎯",
     layout="wide"
 )
 
@@ -22,7 +22,7 @@ if 'current_query' not in st.session_state:
     st.session_state.current_query = ""
 
 # Header
-st.title("SHL Assessment Recommendation System")
+st.title("🎯 SHL Assessment Recommendation System")
 st.markdown("---")
 
 # Sidebar
