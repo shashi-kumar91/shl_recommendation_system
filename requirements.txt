@@ -6,7 +6,7 @@ sentence-transformers==2.2.2
 faiss-cpu==1.7.4
 beautifulsoup4==4.12.2
 requests==2.31.0
-gunicorn
 streamlit
 flask
 flask-cors
+gunicorn
