@@ -7,3 +7,6 @@ faiss-cpu==1.7.4
 beautifulsoup4==4.12.2
 requests==2.31.0
 gunicorn==21.2.0
+streamlit
+flask==3.0.0
+flask-cors==4.0.0
