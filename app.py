@@ -22,7 +22,7 @@ if 'current_query' not in st.session_state:
     st.session_state.current_query = ""
 
 # Header
-st.title("🎯 SHL Assessment Recommendation System")
+st.title("SHL Assessment Recommendation System")
 st.markdown("---")
 
 # Sidebar
